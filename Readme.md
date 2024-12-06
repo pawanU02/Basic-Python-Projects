@@ -1,5 +1,5 @@
 # Basic Projects in Python
-Welcome to the **Basic-Python-Projects** repository! This repository consists a collection of basic python programs designed to be beginner-friendly and help practice python programming.
+Welcome to the **Basic-Python-Projects** repository! This repository consists a collection of basic python programs.
 
 ## Projects Included
 1.  Basic Calculator ✅
