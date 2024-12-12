@@ -12,6 +12,20 @@ from t_ime import *
 
 # Function ot get a valid input
 def valid_input(prompt, valid_choice):
+    """
+    Prompt the user for input and validate it against a set of valid choices.
+
+    Parameters:
+        prompt (str): The message to display when asking for input.
+        valid_choice (iterable): A collection of valid input choices.
+
+    Returns:
+        str: The user input if it is in the valid_choice collection.
+
+    Raises:
+        Exception: If the user input is not in the valid_choice collection, an error message is printed,
+                   and the user is prompted again until a valid input is provided.
+    """
     while True:
         try:
             user_input = input(prompt)
@@ -22,6 +36,20 @@ def valid_input(prompt, valid_choice):
             print(e)
 
 def conversion_unit_tool():
+    """
+        A simple unit conversion tool that guides the user through a series of menus to select the desired category and specific conversion within that category.
+
+        The tool handles conversions for:
+
+        - Length: Meters, kilometers, miles, yards
+        - Area: Square meters, square kilometers, acres, square feet, hectares
+        - Volume: Liters, milliliters, kiloliters, centiliters
+        - Weight: Kilograms, grams, milligrams, pounds
+        - Temperature: Celsius, Kelvin, Fahrenheit
+        - Time: Seconds, minutes, hours
+
+        The user interface is designed to be intuitive and user-friendly, providing clear prompts and error handling for invalid inputs.
+        """
 
     # Choosing the Category
     print("""
