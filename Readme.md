@@ -1,16 +1,18 @@
 # Basic Projects in Python
+
 Welcome to the **Basic-Python-Projects** repository! This repository consists a collection of basic python programs designed to be beginner-friendly and help practice python programming.
 
 ## Projects Included
-1.  Basic Calculator ✅
-2.  Number Guessing Game ✅
-3.  Unit Conversion Tool
- 4. Simple To-Do List App (console-based)
- 5. Basic Expense Tracker
- 6. Palindrome Checker
- 7. Password Generator
- 8. Basic Weather App (API)
- 9. Rock-Paper-Scissors Game
+
+1. Basic Calculator ✅
+2. Number Guessing Game ✅
+3. Unit Conversion Tool ✅
+4. Simple To-Do List App (console-based)
+5. Basic Expense Tracker
+6. Palindrome Checker
+7. Password Generator
+8. Basic Weather App (API)
+9. Rock-Paper-Scissors Game
 10. Simple Interest Calculator
 11. Prime Number Checker
 12. Dice Rolling Simulator
@@ -19,6 +21,7 @@ Welcome to the **Basic-Python-Projects** repository! This repository consists a 
 15. CSV File Reader and Writer
 
 ## Getting Started
+
 To get started with any of these projects, follow these steps:
 
 1. **Clone the Repository**:
