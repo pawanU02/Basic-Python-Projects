@@ -7,7 +7,7 @@ Welcome to the **Basic-Python-Projects** repository! This repository consists a 
 1. Basic Calculator ✅
 2. Number Guessing Game ✅
 3. Unit Conversion Tool ✅
-4. Simple To-Do List App (console-based)
+4. Simple To-Do List App (console-based) ✅
 5. Basic Expense Tracker
 6. Palindrome Checker
 7. Password Generator
